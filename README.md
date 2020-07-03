@@ -1,3 +1,3 @@
-# Repository-Baru
-# AksaraSundaCNN
-# AksaraSundaCNN
+
+# Aksara Sunda CNN
+Berisi Model aksarasunda
