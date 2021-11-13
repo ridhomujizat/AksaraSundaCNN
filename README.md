@@ -1,3 +1,3 @@
 
 # Aksara Sunda CNN
-Berisi Model aksarasunda
+Dataset aksara sunda untuk image processing
